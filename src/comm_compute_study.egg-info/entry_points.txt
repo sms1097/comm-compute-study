@@ -1,0 +1,2 @@
+[console_scripts]
+comm-compute-study = comm_compute_study.cli:main
